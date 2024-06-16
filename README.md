@@ -1,5 +1,5 @@
 # DIFFICE_jax
-PINN DIFFerentiable solver for data assimilation and inverse modeling of ICE shelves in JAX.
+PINN DIFFerentiable solver for data assimilation and inverse modeling of ICE shelves in JAX. JAX is about 2-3 times faster than tensorflow for this code.
 
 Please direct questions about this code and documentation to Yongji Wang (yongjiw@stanford.edu) and Ching-Yao Lai (cyaolai@stanford.edu).
 
